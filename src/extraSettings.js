@@ -26,13 +26,13 @@ let setFruits = {
 }
 
 // 让水果更 Q 弹：false 改为大于 0 小于 1 的任意小数（推荐 0.9）
-let fruitQTan = false;
+let fruitQTan = false;1
 
 // 让水果下落缓慢：false 改为大于 0 的任意数，值越大阻力越大，下落越慢（推荐 5）
 let fruitSlowDown = false;4
 
 // 点击右上方图标更换水果：false 改为 true 即可
-let clickChangeFruit = true;
+let clickChangeFruit = false;
 
 // 广告链接：false 或为空字符串表示不会跳转到广告
 let adLink = 
